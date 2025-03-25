@@ -1,0 +1,3 @@
+p {
+    animation: blinker 1s step-start infinite;
+}
